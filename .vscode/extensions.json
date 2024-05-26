@@ -1,0 +1,21 @@
+{
+  "recommendations": [
+    // themes and icons
+    "Catppuccin.catppuccin-vsc-icons",
+    "zhuangtongfa.Material-theme",
+
+    // essentials
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "sleistner.vscode-fileutils",  
+
+    // optional add-ons
+    "EditorConfig.EditorConfig",
+    "WakaTime.vscode-wakatime",
+    "github.vscode-github-actions",
+    "GitHub.vscode-pull-request-github",
+    "oderwat.indent-rainbow",
+  ]
+}
